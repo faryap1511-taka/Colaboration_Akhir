@@ -1,0 +1,9 @@
+Belajar Git Source Control
+
+Nama Lengkap Kamu : Fakhry Arya Pratama
+Hobi : Music
+Sekolah : Akademi Nan
+Asal : China
+kekuatan : Sihir Api
+
+Saya senang belajar Git Source Control di Gamelab Indonesia
